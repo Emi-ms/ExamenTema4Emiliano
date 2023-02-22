@@ -9,7 +9,7 @@ public class Apuestas {
 
     public static void main(String[] args) {
         Apuesta laApuesta;
-        int dinero;
+        int mi_dinero;
 
         laApuesta = new Apuesta(1000, 4, 2);
         operativa_Apuesta(laApuesta, 0);
